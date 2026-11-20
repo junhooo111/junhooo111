@@ -9,6 +9,7 @@
 <img src="./assets/head-skills.svg" alt="CLAUDE SKILLS" />
 
 - **kr-skill-release-check** — 공개 전에 기밀과 개인정보를 점검하는 스킬 · [Repo](https://github.com/junhooo111/kr-skill-release-check)
+- **echarts-interaction-perf** — 조작할 때 버벅이는 ECharts 차트를 측정부터 시작해 진단하는 스킬 (프로파일 스크립트, 재현 가능한 벤치마크 포함) · [Repo](https://github.com/junhooo111/echarts-interaction-perf)
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,unity,cs,git&theme=dark" height="28" alt="React TypeScript Vite Unity C# Git" />
 
